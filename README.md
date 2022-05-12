@@ -1,5 +1,6 @@
 # E209_Atividades
 Lista de atividades práticas de E209 para treinar os conceitos de micro controladores, adaptado ao ATmega328p. Qualquer dúvida entre em contato:
+
 <p style="margin:0.5rem; width: 100%; font-size: 100%" >
   <a href="https://www.github.com/DIEGOVZK/">
   <img style="margin:1rem 0.5rem; height: 30%; float: left;" src="https://img.shields.io/badge/GitHub-%20-white?style=for-the-badge&logo=github">
@@ -7,6 +8,14 @@ Lista de atividades práticas de E209 para treinar os conceitos de micro control
   <a href="https://www.linkedin.com/in/diego-anestor-coutinho">
   <img style="margin:1rem 0.5rem; height: 30%;" src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin">
   </a>
+</p>
+
+<p loat="left" >
+
+  <img style="margin:1rem 0.5rem; height: 30%; float: left;" src="https://github.com/DIEGOVZK/E209_Atividades/blob/main/Atividades/Img%20AmbienteIntegrado.png">
+
+  [Exemplo: Ambiente Integrado](https://www.tinkercad.com/things/ftL9kai7N9I-e209-teste-de-logicas)
+
 </p>
 
 ## Buffer FILO para transmissor RF
