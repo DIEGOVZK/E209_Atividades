@@ -12,7 +12,7 @@ Lista de atividades práticas de E209 para treinar os conceitos de micro control
 
 <p loat="left" >
 
-  <img style="margin:1rem 0.5rem; width: 40%; float: left;" src="https://github.com/DIEGOVZK/E209_Atividades/blob/main/Atividades/Img%20AmbienteIntegrado.png">
+  <img style="margin:1rem 0.5rem; width: 40%; float: left;" src="https://github.com/DIEGOVZK/E209_Atividades/blob/main/Imagens/Img%20AmbienteIntegrado.png">
 
   ### [Exemplo: Ambiente Integrado](https://www.tinkercad.com/things/ftL9kai7N9I-e209-teste-de-logicas)
 
@@ -22,9 +22,9 @@ Lista de atividades práticas de E209 para treinar os conceitos de micro control
 
 <p float="left">
 
-  <img style="float: left;" src="https://img.shields.io/badge/ Matéria - BITMASK | GPIO | INT - darkgreen" alt="DIEGOVZK's GitHub Stats" />
+  <img style="float: left;" src="https://img.shields.io/badge/ Matéria - BITMASK | GPIO | INT - darkgreen" alt="Stats" />
 
-  <img  style="margin-left:0.5rem;" src="https://img.shields.io/badge/ Dificuldade - Fácil / Média - orange"/>
+  <img  style="margin-left:0.5rem;" src="https://img.shields.io/badge/ Dificuldade - Fácil / Média - orange" alt="Stats" />
   
 </p>
 
@@ -41,9 +41,9 @@ Para verificar o funcionamento, utilize um LED que indica por 100ms o valor do b
 
 <p float="left">
 
-  <img style="float: left;" src="https://img.shields.io/badge/ Matéria - BITMASK | GPIO | INT - darkgreen" alt="DIEGOVZK's GitHub Stats" />
+  <img style="float: left;" src="https://img.shields.io/badge/ Matéria - BITMASK | GPIO | INT - darkgreen" alt="Stats" />
 
-  <img  style="margin-left:0.5rem;" src="https://img.shields.io/badge/ Dificuldade - Média - orange"/>
+  <img  style="margin-left:0.5rem;" src="https://img.shields.io/badge/ Dificuldade - Média - orange" alt="Stats" />
   
 </p>
 
@@ -57,3 +57,23 @@ Para passar ao próximo bit, utiliza-se um sistema de interrupção, que ao iden
 Um LED_AMARELO deve ficar piscando com intervalos de 250ms a todo momento, para indicar que seu sistema está funcionando corretamente.
 
 [`GABARITO`](https://github.com/DIEGOVZK/E209_Atividades/blob/main/Gabaritos/GABARITO_12_13_1.c)
+
+
+## Verificação bit-a-bit
+
+<p float="left">
+
+  <img style="float: left;" src="https://img.shields.io/badge/ Matéria - BITMASK | GPIO | INT - darkgreen" alt="Stats" />
+
+  <img  style="margin-left:0.5rem;" src="https://img.shields.io/badge/ Dificuldade - Média - orange" alt="Stats" />
+  
+</p>
+
+Um driver de motor de passo de 4 pólos tem como entrada 4 canais. Para que o motor consiga dar 1 passo completo, é necessários que os canais A, B, A’, e B’ recebam um sinal sequencial, um após o outro, como mostrado na figura abaixo:
+
+<img  style="margin-left:0.5rem;" src="https://github.com/DIEGOVZK/E209_Atividades/blob/main/Imagens/Ex12_2.png"/>
+
+Seu trabalho é montar um circuito que representa essa sequência lógica utilizando 4 Leds de mesma cor para visualizar o ciclo do motor. Porém, é necessário implementar um botão S1 que interrompe a execução do código e inverte a direção do motor, ou seja, o circuito realiza a sequência na direção contrária. 
+
+
+[`GABARITO`](https://github.com/DIEGOVZK/E209_Atividades/blob/main/Gabaritos/GABARITO_12_13_2.c)
