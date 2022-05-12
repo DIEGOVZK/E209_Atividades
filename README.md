@@ -59,7 +59,7 @@ Um LED_AMARELO deve ficar piscando com intervalos de 250ms a todo momento, para 
 [`GABARITO`](https://github.com/DIEGOVZK/E209_Atividades/blob/main/Gabaritos/GABARITO_12_13_1.c)
 
 
-## Verificação bit-a-bit
+## Driver para motor de passo
 
 <p float="left">
 
