@@ -70,7 +70,7 @@ Um LED_AMARELO deve ficar piscando com intervalos de 250ms a todo momento, para 
 
 Um driver de motor de passo de 4 pólos tem como entrada 4 canais. Para que o motor consiga dar 1 passo completo, é necessários que os canais A, B, A’, e B’ recebam um sinal sequencial, um após o outro, como mostrado na figura abaixo:
 
-<img  style="margin-left:0.5rem; width: 100%" src="https://github.com/DIEGOVZK/E209_Atividades/blob/main/Imagens/Ex12_2.png"/>
+<img  style="margin-left:0.5rem; width: 80%" src="https://github.com/DIEGOVZK/E209_Atividades/blob/main/Imagens/Ex12_2.png"/>
 
 Seu trabalho é montar um circuito que representa essa sequência lógica utilizando 4 Leds de mesma cor para visualizar o ciclo do motor. Porém, é necessário implementar um botão S1 que interrompe a execução do código e inverte a direção do motor, ou seja, o circuito realiza a sequência na direção contrária. 
 
