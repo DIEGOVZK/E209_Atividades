@@ -14,7 +14,7 @@ Lista de atividades práticas de E209 para treinar os conceitos de micro control
 
   <img style="margin:1rem 0.5rem; width: 40%; float: left;" src="https://github.com/DIEGOVZK/E209_Atividades/blob/main/Imagens/Img%20AmbienteIntegrado.png">
 
-  ### [Exemplo: Ambiente Integrado](https://www.tinkercad.com/things/ftL9kai7N9I-e209-teste-de-logicas)
+  ### [TinkerCad: Ambiente Integrado](https://www.tinkercad.com/things/ftL9kai7N9I-e209-teste-de-logicas)
 
 </p>
 
