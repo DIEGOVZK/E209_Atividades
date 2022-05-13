@@ -1,5 +1,5 @@
 # E209_Atividades
-Lista de atividades práticas de E209 para treinar os conceitos de micro controladores, adaptado ao ATmega328p. Qualquer dúvida entre em contato:
+Qualquer dúvida entre em contato:
 
 <p style="margin:0.5rem; width: 100%; font-size: 100%" >
   <a href="https://www.github.com/DIEGOVZK/">
